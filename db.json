@@ -1,0 +1,28 @@
+{
+  "stores":[
+  {
+    "suburb": "Dee Why",	
+	"store_ref": "cw002"
+  },
+    {
+    "suburb": "brookvale",	
+	"store_ref": "cw003"
+  },
+    {
+    "suburb": "Manly",	
+	"store_ref": "cw004"
+  },
+    {
+    "suburb": "chatswood",	
+	"store_ref": "cw005"
+  },
+    {
+    "suburb": "crows nest",	
+	"store_ref": "cw006"
+  },
+    {
+    "suburb": "mosman",	
+	"store_ref": "cw007"
+  }
+]
+}
