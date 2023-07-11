@@ -11,18 +11,6 @@
     {
     "suburb": "Manly",	
 	"store_ref": "cw003"
-  },
-    {
-    "suburb": "chatswood",	
-	"store_ref": "cw004"
-  },
-    {
-    "suburb": "crows nest",	
-	"store_ref": "cw005"
-  },
-    {
-    "suburb": "mosman",	
-	"store_ref": "cw006"
   }
 ]
 }
